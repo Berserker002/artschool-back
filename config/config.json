@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "Hero@100",
+    "database": "artschooldb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "admin",
+    "password": "Hero@100",
+    "database": "artschooldb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "admin",
+    "password": "Hero@100",
+    "database": "artschooldb",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
